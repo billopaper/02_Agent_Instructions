@@ -1,6 +1,6 @@
 # Agent Instructions - distilling agent behaviour
 
-*BilloPaper #02*
+*BilloPaper #03*
 
 A multi-agent experiment: make several AI agents solve the same programming
 challenges under different *style* constraints, then distil the winners' habits into
